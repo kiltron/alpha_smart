@@ -1,6 +1,6 @@
 # alpha_smart
 
-A new Flutter project.
+Мобильное приложение на Flutter
 
 ## Getting Started
 
